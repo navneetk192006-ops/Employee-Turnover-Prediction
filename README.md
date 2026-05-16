@@ -44,10 +44,3 @@ Target Column:
    - Classification Report
 
 ---
-
-## Code Explanation
-
-### Import Libraries
-
-```python
-import pandas as pd
